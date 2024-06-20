@@ -1,0 +1,16 @@
+s = set()
+
+i = input("enter the number: ")
+s.add(int(i))
+i = input("enter the number: ")
+s.add(int(i))
+i = input("enter the number: ")
+s.add(int(i))
+i = input("enter the number: ")
+s.add(int(i))
+i = input("enter the number: ")
+s.add(int(i))
+i = input("enter the number: ")
+s.add(int(i))
+
+print(s)
